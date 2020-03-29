@@ -1,0 +1,34 @@
+#### Open Anaconda Prompt (Base)
+
+$ conda create -n cv --clone base
+# Takes a few mins to clone
+
+$ conda activate cv
+
+conda list -n cv
+
+pip install --upgrade pip
+
+Download  Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017 and 2019
+ - https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads
+
+pip install --upgrade tensorflow
+
+
+import tensorflow as tf
+
+x = [[2.]]
+print('Tensorflow Version', tf.__version__)
+print('hello TF world, {}'.format(tf.matmul(x, x)))
+
+--- Verify OpenCV Install ---
+
+import cv2
+print(cv2.__version__)
+
+--- Verify TensorFlow Install ---
+
+import tensorflow as tf
+x = [[2.]]
+print('Tensorflow Version', tf.__version__)
+print('hello TF world, {}'.format(tf.matmul(x, x)))

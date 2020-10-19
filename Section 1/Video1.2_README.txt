@@ -1,0 +1,6 @@
+In Video 1.2,
+For Windows10 with Nvidia GTX1080 users:
+When installing TensorFlow, please follow the applicable steps to enable GPU support: https://www.tensorflow.org/install/gpu
+By default, Windows10 with Nvidia GTX1080 is not recognized without these additional software installations.
+
+There is also a version incompatibility where the TensorFlow package would only try loading the 'cudart64_101.dll' on import, but the current CUDA DLL version was 'cudart64_110.dll'.  A quick workaround is to copy the 'cudart64_110.dll' to 'cudart64_101.dll'.

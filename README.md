@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/hands-on-computer-vision-with-opencv-4-keras-and-tensorflow-2-video/9781839211768)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 This is the code repository for [Hands-On Computer Vision with OpenCV 4, Keras and TensorFlow 2 [Video]](https://www.packtpub.com/data/hands-on-computer-vision-with-opencv-4-keras-and-tensorflow-2-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
 Do you want to understand how computers see images and videos? Using artificial intelligence, we can enable computers and smart devices to interpret what is in an image (computer vision).

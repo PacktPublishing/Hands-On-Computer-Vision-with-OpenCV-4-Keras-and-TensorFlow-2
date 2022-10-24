@@ -43,3 +43,7 @@ For an optimal experience with hands-on labs and other practical activities, we 
 * [OpenCV 4 Computer Vision with Python Recipes [Video]](https://www.packtpub.com/application-development/opencv-4-computer-vision-python-recipes-video)
 
 * [OpenCV 4 for Secret Agents [Video]](https://www.packtpub.com/application-development/opencv-4-secret-agents-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781839211768">https://packt.link/free-ebook/9781839211768 </a> </p>
